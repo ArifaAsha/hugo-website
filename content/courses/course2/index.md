@@ -1,41 +1,47 @@
 ---
-title: "Profanity in Early Irish" 
+title: "Profanity in Early Irish"
 date: 1990-06-16
 lastmod: 2024-07-12
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+tags:
+  [
+    "Irish",
+    "philology",
+    "profanity",
+    "Celtic languages",
+    "language modernization",
+  ]
+author: ["Dieter Vogelsang", "Arifa Akter"]
+description: "This undergraduate course discusses profanity in Early Irish."
+summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English."
 cover:
-    image: "course2.png"
-    alt: "Figure caption"
-    relative: false
+  image: "course2.png"
+  alt: "Figure caption"
+  relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+  URL: "https://github.com/pmichaillat/hugo-website"
+  Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
-
 ---
 
 ## Introduction
 
 This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
 
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat.
+- Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper.
+- Phasellus rutrum enim in nunc aliquam mollis.
+- Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus.
 
 ##### Introductory video
 
-+ [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
+- [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
 
 ##### Introductory readings
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf)
-+ [Paper 2](https://pascalmichaillat.org/13.pdf)
+- [Paper 1](https://pascalmichaillat.org/1.pdf)
+- [Paper 2](https://pascalmichaillat.org/13.pdf)
 
 ---
 
@@ -46,18 +52,18 @@ cillum dolore eu fugiat nulla pariatur.
 
 ##### Lecture videos
 
-+ [Lecture video 1](https://youtu.be/X_mwtm3inEw)
-+ [Lecture video 2](https://youtu.be/cFdwOwY2l-A)
+- [Lecture video 1](https://youtu.be/X_mwtm3inEw)
+- [Lecture video 2](https://youtu.be/cFdwOwY2l-A)
 
 ##### Lecture notes
 
-+ [Lecture notes 1](notes1.pdf) – Concise overview of early Irish
-+ [Lecture notes 2](notes2.pdf) – Complete and detailed overview of early Irish
+- [Lecture notes 1](notes1.pdf) – Concise overview of early Irish
+- [Lecture notes 2](notes2.pdf) – Complete and detailed overview of early Irish
 
 ##### Readings
 
-+ [Paper 3](https://pascalmichaillat.org/7.pdf)
-+ [Paper 4](https://pascalmichaillat.org/8.pdf)
+- [Paper 3](https://pascalmichaillat.org/7.pdf)
+- [Paper 4](https://pascalmichaillat.org/8.pdf)
 
 ---
 
@@ -71,23 +77,23 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ##### Lecture videos
 
-+ [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
-+ [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
+- [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
+- [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
 
 ##### Compulsory readings
 
-+ [Paper 5](https://pascalmichaillat.org/10.pdf)
-+ [Paper 6](https://pascalmichaillat.org/11.pdf)
+- [Paper 5](https://pascalmichaillat.org/10.pdf)
+- [Paper 6](https://pascalmichaillat.org/11.pdf)
 
 ##### Optional readings
 
-+ [Paper 7](https://pascalmichaillat.org/2.pdf)
-+ [Paper 8](https://pascalmichaillat.org/4.pdf)
-+ [Paper 9](https://pascalmichaillat.org/5.pdf)
+- [Paper 7](https://pascalmichaillat.org/2.pdf)
+- [Paper 8](https://pascalmichaillat.org/4.pdf)
+- [Paper 9](https://pascalmichaillat.org/5.pdf)
 
 ##### Homework
 
-+ [Problem set on profanity in Indo-European languages](problemset.pdf)
+- [Problem set on profanity in Indo-European languages](problemset.pdf)
 
 ---
 
@@ -103,9 +109,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Lecture videos
 
-+ [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
-+ [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
-
+- [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
+- [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
 
 ---
 

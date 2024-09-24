@@ -1,17 +1,36 @@
 ---
-title: "List of Irregular Verbs Across Romance Languages" 
+title: "List of Irregular Verbs Across Romance Languages"
 date: 2013-03-07
 lastmod: 2024-07-12
-tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
-author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
+tags:
+  [
+    "Romance languages",
+    "philology",
+    "irregular verbs",
+    "Portuguese",
+    "Italian",
+    "French",
+    "Spanish",
+    "simulations",
+    "dataset",
+    "python",
+  ]
+author:
+  [
+    "Patrick Fitzcarron O'Leary",
+    "Florianus Prinzel",
+    "Walter Schoeffler-Henschell",
+    "Detlev Amadeus Unterholzer",
+    "Dieter Vogelsang",
+    "Arifa Akter",
+  ]
 description: "This dataset contains all irregular verbs in known Romance languages."
 summary: "This dataset contains all irregular verbs in known Romance languages."
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "GitHub repository"
+  URL: "https://github.com/pmichaillat/hugo-website"
+  Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
-
 ---
 
 ## Overview
@@ -22,10 +41,10 @@ This dataset contains all irregular verbs in [all known Romance languages](http:
 
 ## View dataset
 
-+ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
-+ Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
-+ Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
-+ Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
+- Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
+- Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
+- Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
+- Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
 
 ---
 
@@ -37,7 +56,6 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 
 ---
 
@@ -93,7 +111,7 @@ for line in lines:
 
 #### Compute summary statistics using NumPy:
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum: `data_array`. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum: `data_array`.
 
 ```python
 data_array = np.array(data)  # Convert the list to a NumPy array
@@ -123,11 +141,11 @@ print(f"Maximum Value: {max_value}")
 
 ## Description of simulation parameters
 
-| Parameter |   Value   |  Language  | Time period |           Description            |
+| Parameter |   Value   | Language   | Time period |           Description            |
 | :-------: | :-------: | ---------- | :---------: | :------------------------------: |
-|  $\alpha$ |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
+| $\alpha$  |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
 | $\lambda$ |   $e/2$   | French     |  1930–1954  |       Fugiat sint occaecat       |
-|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
-|  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
-|  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
-|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |
+| $\gamma$  | $\ln(3)$  | Spanish    |  1833–1954  |      Duis officia deserunt       |
+| $\omega$  | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
+| $\sigma$  |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
+| $\chi^2$  |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |

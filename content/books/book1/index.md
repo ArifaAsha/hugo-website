@@ -1,21 +1,20 @@
 ---
-title: "Portugese Irregular Verbs" 
+title: "Portugese Irregular Verbs"
 date: 1997-01-01
 lastmod: 2024-05-08
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
+tags: ["Portugese", "irregular verbs", "philology"]
+author: ["Arifa Akter"]
 description: "This book discusses Portugese irregular verbs in great details."
 summary: "This book discusses Portugese irregular verbs in great details."
 cover:
-    image: "book1.png"
-    alt: "Portugese Irregular Verbs"
-    relative: false
+  image: "book1.png"
+  alt: "Portugese Irregular Verbs"
+  relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Regensburg University Press"
+  URL: "https://github.com/pmichaillat/hugo-website"
+  Text: "Regensburg University Press"
 showToc: false
 disableAnchoredHeadings: false
-
 ---
 
 ---
@@ -40,22 +39,21 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 #### View
 
-+ [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
+- [Chapter 1: History of the Portuguese language](chapter1.pdf)
+- [Chapter 2: Review of regular verbs](chapter2.pdf)
+- [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
 
 ---
 
 #### Excerpt from Chapter 1: Basic mathematical results from Portuguese philology
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus.
 
 $$1+\lambda\exp{\frac{\beta}{\alpha^2}} = \max_{t\in\mathbb{R}}(x(t)-y(t)+z(t)^2).$$
 
 Nulla facilisi. Phasellus pharetra ligula sit amet diam viverra, sed scelerisque ligula cursus. Curabitur sit amet libero eu velit fringilla vulputate, $2\ln(x)$. Suspendisse potenti. Quisque imperdiet arcu ac nibh gravida, id posuere ligula efficitur. Curabitur posuere, dui at finibus viverra, felis justo pulvinar urna, id finibus sem purus eget orci.
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris vel neque at lorem fermentum tincidunt: $<x,y> = 2x^2 + \mathcal{A}$. Etiam volutpat, risus at aliquet varius, sapien quam vulputate lectus, id ultrices lorem arcu ut magna. Sed malesuada scelerisque dignissim. Aliquam erat volutpat. Proin efficitur tincidunt nulla, a convallis magna cursus sit amet. Donec eget convallis libero. Pellentesque tincidunt nunc et nisi lacinia, quis auctor lorem suscipit: 
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris vel neque at lorem fermentum tincidunt: $<x,y> = 2x^2 + \mathcal{A}$. Etiam volutpat, risus at aliquet varius, sapien quam vulputate lectus, id ultrices lorem arcu ut magna. Sed malesuada scelerisque dignissim. Aliquam erat volutpat. Proin efficitur tincidunt nulla, a convallis magna cursus sit amet. Donec eget convallis libero. Pellentesque tincidunt nunc et nisi lacinia, quis auctor lorem suscipit:
 
 $$2\exp(\gamma) = 2\exp(\zeta/3) = 2\exp(\kappa).$$
 
@@ -65,11 +63,11 @@ Praesent at eros a sapien sagittis scelerisque at a nulla. Aliquam erat volutpat
 
 #### Citation
 
-Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
+Arifa Akter. 1997. _Portugese Irregular Verbs_. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
 
 ```BibTeX
 @book{I97,
-author = {Moritz-Maria von Igelfeld},
+author = {Arifa Akter},
 year = {1997},
 title = {Portugese Irregular Verbs},
 publisher = {Regensburg University Press},
